@@ -1,0 +1,2 @@
+1 | Nome: Arroz | Qtde: 2 | Preço: R$12.0 | Vr Total: R$24.0
+2 | Nome: Mortadela | Qtde: 12 | Preço: R$3.0 | Vr Total: R$36.0

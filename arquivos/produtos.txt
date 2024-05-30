@@ -1,0 +1,4 @@
+Arroz;12.0
+Feijão;10.0
+Banana;4.0
+Mortadela;3.0
